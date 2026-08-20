@@ -1,6 +1,6 @@
 # SAP Knowledge Vault
 
-Base de conhecimento técnica e colaborativa para estudos, desenvolvimento, guias e referências SAP.
+Base de conhecimento técnica e colaborativa, pública para consulta e reutilização, dedicada a estudos, desenvolvimento, guias e referências SAP.
 
 ## Comece por aqui
 
@@ -29,11 +29,12 @@ Abra esta pasta como um cofre no Obsidian. Instale os plugins listados quando o 
 
 ## Colaboração
 
-- Use o repositório privado no GitHub como fonte compartilhada; não sincronize este mesmo cofre pelo OneDrive.
+- Use o repositório público no GitHub como fonte compartilhada; não sincronize este mesmo cofre pelo OneDrive.
+- A leitura e o fork são públicos, mas a edição direta é limitada aos colaboradores autorizados no GitHub.
 - Atualize a cópia local antes de editar.
 - Faça commits pequenos e focados diretamente na `main`.
 - Não use force-push.
-- Nunca adicione senhas, tokens, dados pessoais ou informações confidenciais de clientes.
+- Nunca adicione senhas, tokens, dados pessoais, informações internas ou conteúdo confidencial de clientes; considere todo arquivo versionado como publicamente acessível.
 
 ## Validação
 

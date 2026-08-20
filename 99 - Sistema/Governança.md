@@ -2,9 +2,10 @@
 
 ## Princípios
 
-- O repositório privado é a fonte de verdade compartilhada.
+- O repositório público é a fonte de verdade compartilhada e pode ser consultado ou reutilizado por qualquer pessoa.
+- A escrita direta permanece restrita aos colaboradores autorizados pelos mantenedores no GitHub.
 - A base prioriza conhecimento reproduzível, rastreável e seguro.
-- Todos podem editar diretamente; qualidade é protegida por templates, validação automática e histórico Git.
+- Todos os colaboradores autorizados podem editar diretamente; qualidade é protegida por templates, validação automática e histórico Git.
 - A documentação oficial SAP e a compatibilidade do sistema-alvo prevalecem sobre qualquer nota interna.
 
 ## Ciclo de vida
@@ -19,6 +20,7 @@ Não promova automaticamente um rascunho. A IA pode estruturar e corrigir a nota
 ## Segurança e privacidade
 
 - O repositório não é um cofre de segredos.
+- Todo conteúdo versionado deve ser tratado como publicamente acessível e potencialmente indexável.
 - Use apenas dados fictícios e placeholders explícitos em código, imagens e exemplos.
 - Materiais de cliente exigem anonimização e autorização antes da entrada.
 - Arquivos sob suspeita ficam em `00 - Entrada/_Revisar`, que não é versionado.

@@ -11,7 +11,7 @@ tags: [sap, governanca, colaboracao]
 2. Coloque o material novo em `00 - Entrada`.
 3. Abra o Codex na raiz do cofre e peça **Processar a Entrada**.
 4. Revise o relatório gerado e execute `npm test`.
-5. Envie o commit para o repositório privado.
+5. Envie o commit para o repositório público se você possuir permissão de escrita; demais pessoas podem contribuir pelo fluxo aceito pelos mantenedores.
 
 ## Edição de conteúdo existente
 
@@ -24,6 +24,8 @@ tags: [sap, governanca, colaboracao]
 
 ## Git
 
+- O conteúdo é público para leitura e reutilização.
+- Somente colaboradores autorizados podem editar diretamente a `main`.
 - Commits diretos na `main` são permitidos.
 - Um commit deve representar uma mudança coerente.
 - Use mensagens como `docs: ampliar guia de RAP` ou `triagem: 2026-08-20 1430 - 3 itens`.
@@ -39,6 +41,8 @@ Não armazene:
 - nomes de clientes, hosts, URLs internas, IDs de sistemas ou capturas com dados reais;
 - código proprietário sem autorização;
 - documentos cuja licença não permita compartilhamento.
+
+Considere que todo conteúdo enviado ao GitHub poderá ser lido, copiado e indexado publicamente.
 
 Substitua valores reais por placeholders explícitos, como `<USUARIO>`, `<HOST>` e `<DESTINO_RFC>`.
 
