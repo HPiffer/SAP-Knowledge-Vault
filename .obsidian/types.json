@@ -1,0 +1,20 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "tags": "tags",
+    "id": "text",
+    "tipo": "text",
+    "status": "text",
+    "tecnologias": "multitext",
+    "modulos": "multitext",
+    "produtos": "multitext",
+    "release": "text",
+    "nivel": "text",
+    "autor": "text",
+    "criado": "date",
+    "atualizado": "date",
+    "fontes": "multitext",
+    "validado_por": "text",
+    "validado_em": "date"
+  }
+}

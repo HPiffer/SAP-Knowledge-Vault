@@ -1,0 +1,21 @@
+# Entrada local: somente as instruções são compartilhadas
+00 - Entrada/*
+!00 - Entrada/README.md
+
+# Estado local do Obsidian
+.trash/
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/manifest.json
+
+# Dependências e relatórios locais
+node_modules/
+coverage/
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini

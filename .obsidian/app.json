@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "00 - Entrada",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - Entrada",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "promptDelete": true
+}
