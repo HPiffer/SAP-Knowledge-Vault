@@ -23,6 +23,7 @@ Templates, exemplos e checklists reutilizáveis. Todo código deve usar dados fi
 - ABAP: reports, classes, ALV/SALV, BAdI/BAPI e ABAP Unit.
 - CDS/DCL: view entities, parâmetros, associações e autorizações.
 - RAP: business objects managed e unmanaged, behavior e EML.
+- BOPF: service manager, retrieve/modify, acoes, bloqueios e mensagens (foco SAP TM).
 - Fiori/UI5: controllers, routing, mensagens e integração OData.
 - Integrações: HTTP, OData, RFC, IDoc e APIs.
 - Engenharia: transportes, revisão, segurança, performance e rollback.
