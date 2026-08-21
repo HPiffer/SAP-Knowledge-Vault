@@ -5,5 +5,5 @@
   "newFileFolderPath": "00 - Entrada",
   "useMarkdownLinks": false,
   "newLinkFormat": "shortest",
-  "promptDelete": true
+  "promptDelete": false
 }

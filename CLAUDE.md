@@ -17,6 +17,20 @@ Organize esta base Obsidian sem duplicar conhecimento, sem expor dados confidenc
 - Não marque uma nota como `validado` sem `validado_por`, `validado_em` e evidência real em `## Evidência de validação`.
 - Não invente compatibilidade SAP. Use `release: desconhecido` quando a fonte não determinar a versão.
 - Preserve fontes e direitos autorais: resuma materiais externos e mantenha o arquivo original somente quando houver autorização para armazená-lo.
+- Diferencie leitura de escrita antes de agir: só crie, mova ou edite arquivos do cofre quando o pedido for explicitamente de escrita (ver seção abaixo).
+
+## Ler vs. escrever no repositório (READ vs WRITE)
+
+Nem todo pedido é para modificar o cofre. Classifique a intenção antes de tocar em qualquer arquivo:
+
+- **READ / gerar resultado** — o pedido é para *gerar, criar um exemplo, mostrar, exibir, rascunhar, esboçar, explicar, analisar, planejar, comparar ou sugerir* algo. A saída vai **para a conversa**, não para o repositório. NÃO crie, mova nem edite arquivos. Ex.: "gere um exemplo de X", "me mostre como ficaria", "como eu chamaria Y", "faça um rascunho", "analise este conteúdo".
+- **WRITE / persistir** — o pedido é explicitamente para *salvar, adicionar, criar no repositório, gravar, incorporar, arquivar, atribuir no repositório, mover, renomear, editar/corrigir um arquivo existente* ou **Processar a Entrada**. Só então crie ou altere arquivos do cofre. Ex.: "salve no repositório", "adicione esta nota", "atribua este arquivo no cofre", "corrija a nota Z".
+
+Regras:
+
+- "Criar um exemplo/rascunho/modelo" por si só é READ — entregue o conteúdo na conversa. Só vira arquivo se o usuário pedir para **salvá-lo**.
+- Na dúvida entre READ e WRITE, trate como READ e **pergunte** antes de escrever.
+- Um resultado READ pode ser oferecido para salvar ("quer que eu salve isto no cofre?"), mas a escrita só ocorre após confirmação explícita.
 
 ## Destinos
 
