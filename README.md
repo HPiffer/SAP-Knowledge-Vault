@@ -7,9 +7,9 @@ Base de conhecimento técnica e colaborativa, pública para consulta e reutiliza
 1. Abra [[01 - Portal/Início|Início]].
 2. Leia [[01 - Portal/Como contribuir|Como contribuir]].
 3. Coloque qualquer material novo em `00 - Entrada`.
-4. No Codex, trabalhando na raiz deste repositório, peça: **Processar a Entrada**.
+4. No Claude, trabalhando na raiz deste repositório, peça: **Processar a Entrada**.
 
-O Codex aplica as regras do [[99 - Sistema/Taxonomia|contrato de conteúdo]], organiza os arquivos, atualiza os links e registra a execução em `99 - Sistema/Logs de Triagem`.
+O Claude aplica as regras do [[99 - Sistema/Taxonomia|contrato de conteúdo]], organiza os arquivos, atualiza os links e registra a execução em `99 - Sistema/Logs de Triagem`. Ao abrir o repositório na raiz, o Claude carrega automaticamente o contrato operacional em `CLAUDE.md`.
 
 ## Requisitos
 

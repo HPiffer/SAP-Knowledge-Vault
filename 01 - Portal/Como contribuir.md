@@ -9,7 +9,7 @@ tags: [sap, governanca, colaboracao]
 
 1. Atualize a `main` local com rebase.
 2. Coloque o material novo em `00 - Entrada`.
-3. Abra o Codex na raiz do cofre e peça **Processar a Entrada**.
+3. Abra o Claude na raiz do cofre e peça **Processar a Entrada**.
 4. Revise o relatório gerado e execute `npm test`.
 5. Envie o commit para o repositório público se você possuir permissão de escrita; demais pessoas podem contribuir pelo fluxo aceito pelos mantenedores.
 

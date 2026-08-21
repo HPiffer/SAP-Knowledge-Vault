@@ -43,4 +43,4 @@ Não promova automaticamente um rascunho. A IA pode estruturar e corrigir a nota
 
 ## Mudanças estruturais
 
-Alterações em taxonomia, templates, `AGENTS.md`, validações ou pastas principais devem ocorrer em commit próprio e atualizar a documentação relacionada no mesmo lote.
+Alterações em taxonomia, templates, `CLAUDE.md`, validações ou pastas principais devem ocorrer em commit próprio e atualizar a documentação relacionada no mesmo lote.

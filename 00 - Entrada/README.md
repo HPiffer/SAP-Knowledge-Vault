@@ -2,7 +2,7 @@
 
 Deposite aqui todo material novo antes de incorporá-lo à base: notas, código, imagens, PDFs, planilhas, apresentações ou pacotes.
 
-Depois, abra o Codex na raiz do repositório e peça:
+Depois, abra o Claude na raiz do repositório e peça:
 
 > Processar a Entrada
 

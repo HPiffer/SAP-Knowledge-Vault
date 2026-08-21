@@ -224,7 +224,7 @@ function validateTrackedInbox() {
   }
 }
 
-if (!existsSync(join(root, "AGENTS.md")) || !existsSync(join(root, "99 - Sistema", "Taxonomia.md"))) {
+if (!existsSync(join(root, "CLAUDE.md")) || !existsSync(join(root, "99 - Sistema", "Taxonomia.md"))) {
   console.error("Execute a validação na raiz do SAP Knowledge Vault.");
   process.exit(1);
 }
