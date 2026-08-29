@@ -9,7 +9,7 @@ release: agnostico
 nivel: basico
 autor: Hayron Piffer
 criado: 2026-08-24
-atualizado: 2026-08-24
+atualizado: 2026-08-29
 fontes: []
 ---
 
@@ -30,7 +30,7 @@ O funcionamento da plataforma é sustentado por três pilares fundamentais:
 
 2. **Contexto e Análise (Context and Analysis):** Alavanca uma malha de dados empresariais (*Business Data Fabric*) para fornecer dados precisos e contextualizados aos modelos de IA, mantendo uma única fonte de verdade.
 
-3. **Governança (Governance):** Garante segurança, conformidade e responsabilidade ética durante todo o ciclo de vida dos modelos e agentes implantados .
+3. **Governança (Governance):** Garante segurança, conformidade e responsabilidade ética durante todo o ciclo de vida dos modelos e agentes implantados.
 
 Esse ecossistema integrado permite incorporar a IA de maneira consistente em várias aplicações corporativas vitais, como finanças e recursos humanos, permitindo escalar a implantação de IA de forma eficiente e segura.
 
