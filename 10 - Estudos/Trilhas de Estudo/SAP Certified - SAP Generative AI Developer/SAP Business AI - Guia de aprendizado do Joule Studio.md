@@ -15,11 +15,6 @@ fontes: []
 
 # SAP Business AI - Guia de aprendizado do Joule Studio
 
-Este guia consolidado foi estruturado em um fluxo de aprendizagem progressivo, partindo da visão macro da plataforma até a criação prática de agentes autônomos de Inteligência Artificial usando o **Joule Studio**.
-
-
----
-
 ## Módulo 1: A Plataforma SAP Business AI (Visão Geral)
 
 A **SAP Business AI Platform** é um ecossistema integrado projetado para ir além dos modelos genéricos de inteligência artificial, oferecendo uma inteligência empresarial criada sob medida que compreende o contexto de negócios específico de cada organização.

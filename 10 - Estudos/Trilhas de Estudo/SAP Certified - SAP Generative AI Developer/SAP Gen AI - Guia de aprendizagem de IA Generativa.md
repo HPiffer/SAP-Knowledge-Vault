@@ -15,13 +15,6 @@ fontes: []
 
 # SAP Gen AI - Guia de aprendizagem de IA Generativa
 
-  
-
-Este guia foi elaborado para fornecer uma visão clara, estruturada e progressiva sobre o desenvolvimento de soluções de IA Generativa no contexto empresarial da SAP. O conteúdo é organizado de forma a guiar o profissional desde os fundamentos dos modelos de linguagem até as práticas recomendadas de segurança, otimização e testes contínuos.
-
-
----
-
 ## Módulo 1: Fundamentos de LLMs e a Estratégia de IA Generativa da SAP
 
 ### 1. O que são Grandes Modelos de Linguagem (LLMs)?
