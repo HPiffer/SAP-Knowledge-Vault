@@ -18,6 +18,7 @@ Organize esta base Obsidian sem duplicar conhecimento, sem expor dados confidenc
 - Não invente compatibilidade SAP. Use `release: desconhecido` quando a fonte não determinar a versão.
 - Preserve fontes e direitos autorais: resuma materiais externos e mantenha o arquivo original somente quando houver autorização para armazená-lo.
 - Diferencie leitura de escrita antes de agir: só crie, mova ou edite arquivos do cofre quando o pedido for explicitamente de escrita (ver seção abaixo).
+- Antes de **Processar a Entrada**, formate cada item seguro com o agente `formatador-obsidian` (remoção de linhas em branco em excesso, indentação e correção de escrita) sem alterar informação ou contexto. É o passo 4 da Sequência de triagem.
 
 ## Ler vs. escrever no repositório (READ vs WRITE)
 
@@ -49,13 +50,14 @@ Não duplique uma nota por ela pertencer a vários módulos ou tecnologias. Esco
 1. Verifique o estado do Git e preserve mudanças locais.
 2. Inventarie os itens da Entrada e compare conteúdo, hash, título e aliases com o acervo.
 3. Procure credenciais, dados pessoais, nomes/identificadores de clientes e material sem autorização de distribuição antes de preparar qualquer commit.
-4. Classifique o item segundo a taxonomia e escolha o template correspondente.
-5. Normalize nome, título, frontmatter, seções e fontes; converta texto bruto em Markdown quando apropriado.
-6. Mova anexos para `60 - Anexos` e atualize todas as referências.
-7. Atualize páginas de navegação quando surgir um domínio ainda não representado.
-8. Execute `npm test`.
-9. Crie `99 - Sistema/Logs de Triagem/AAAA/AAAA-MM-DD-HHmm.md` com o manifesto do lote, sem dados sensíveis.
-10. Execute novamente `npm test` e crie um único commit `triagem: AAAA-MM-DD HHmm - N itens`.
+4. Formate cada item seguro da Entrada com o agente `formatador-obsidian` antes de classificar: remova linhas em branco em excesso (mantendo a nota arejada), ajuste a indentação para melhorar a leitura e corrija erros de escrita — sempre **sem alterar a informação, os dados técnicos ou o contexto**. Não formate itens inseguros, ambíguos, duplicados ou corrompidos: esses vão para `_Revisar`.
+5. Classifique o item segundo a taxonomia e escolha o template correspondente.
+6. Normalize nome, título, frontmatter, seções e fontes; converta texto bruto em Markdown quando apropriado.
+7. Mova anexos para `60 - Anexos` e atualize todas as referências.
+8. Atualize páginas de navegação quando surgir um domínio ainda não representado.
+9. Execute `npm test`.
+10. Crie `99 - Sistema/Logs de Triagem/AAAA/AAAA-MM-DD-HHmm.md` com o manifesto do lote, sem dados sensíveis.
+11. Execute novamente `npm test` e crie um único commit `triagem: AAAA-MM-DD HHmm - N itens`.
 
 Se houver mais de um destino plausível, não adivinhe: envie o item para `_Revisar` e registre o motivo.
 
