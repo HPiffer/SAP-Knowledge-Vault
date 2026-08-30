@@ -13,7 +13,6 @@ atualizado: 2026-08-29
 fontes: [https://learning.sap.com/learning-journeys/acquiring-core-abap-skills]
 tags: [sap, abap, abap-cloud, certificacao]
 ---
-
 # ABAP Cloud - Visao geral da certificação Backend Developer
 
 ## Sobre a certificacao
@@ -30,6 +29,6 @@ A trilha de aprendizagem utilizada como base para esta certificacao e a **Acquir
 
 https://learning.sap.com/learning-journeys/acquiring-core-abap-skills
 
-## Notas conectadas
+## Conteudo
 
-Materiais de estudo desta trilha serao adicionados aqui conforme forem incorporados ao acervo.
+- [[ABAP - Learning Basic ABAP Programming]] — curso base da Learning Journey, com as 8 unidades.
