@@ -77,7 +77,7 @@ Nunca:
 ### 5. Callouts, wikilinks e tags
 - Callouts do Obsidian: normalize para `> [!tipo]` com espaço correto e
   conteúdo indentado com `> `. Não invente o tipo do callout.
-- Wikilinks: preserve `[[Nota]]` e `[[Nota|alias]]` intactos; corrija apenas
+- Wikilinks: preserve os wikilinks (ex.: `\[\[Nota\]\]` e `\[\[Nota|alias\]\]`) intactos; corrija apenas
   espaçamento acidental dentro dos colchetes.
 - Tags: mantenha `#tag` no formato existente; não crie tags novas.
 
