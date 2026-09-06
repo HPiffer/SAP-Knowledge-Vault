@@ -49,17 +49,23 @@ SORT atualizado ASC
 
 ## Templates disponíveis
 
+Índice: [[Índice de Templates]]
+
 ```dataview
 LIST
 FROM "90 - Templates Obsidian"
+WHERE file.name != "Índice de Templates"
 SORT file.name ASC
 ```
 
 ## Últimas triagens
 
+Índice: [[Índice de Logs de Triagem]]
+
 ```dataview
 LIST
 FROM "99 - Sistema/Logs de Triagem"
+WHERE file.name != "Índice de Logs de Triagem"
 SORT file.name DESC
 LIMIT 10
 ```
