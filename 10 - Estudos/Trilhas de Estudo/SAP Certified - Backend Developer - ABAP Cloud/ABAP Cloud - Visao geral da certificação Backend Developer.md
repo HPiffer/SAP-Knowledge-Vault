@@ -32,3 +32,4 @@ https://learning.sap.com/learning-journeys/acquiring-core-abap-skills
 ## Conteudo
 
 - [[ABAP - Learning Basic ABAP Programming]] — curso base da Learning Journey, com as 8 unidades.
+- [[ABAP - Deepening Your ABAP Programming Knowledge]] — segundo curso, com as 9 unidades de aprofundamento.
