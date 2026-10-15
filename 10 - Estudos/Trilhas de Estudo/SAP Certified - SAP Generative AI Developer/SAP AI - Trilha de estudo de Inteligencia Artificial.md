@@ -9,7 +9,7 @@ release: agnostico
 nivel: basico
 autor: Hayron Piffer
 criado: 2026-08-24
-atualizado: 2026-08-29
+atualizado: 2026-10-15
 fontes: []
 tags: [sap, ia, trilha]
 ---
@@ -26,6 +26,7 @@ Ponto de entrada unico para o estudo de Inteligencia Artificial no ecossistema S
 2. [[SAP Gen AI - Guia de aprendizagem de IA Generativa]] — fundamentos tecnicos: LLMs e arquitetura transformer, a estrategia de IA Generativa da SAP (Generative AI Hub no BTP), engenharia de prompt, seguranca contra prompt injection, grounding e RAG, avaliacao e MLOps. Aprofunda *como* construir e operar solucoes com qualidade e seguranca.
 3. [[SAP Gen AI - Guia do Generative AI Hub]] — infraestrutura: **SAP AI Foundation**, os quatro padroes de interacao (Human/Software-to-AI), a arquitetura em camadas do Generative AI Hub e o acesso unificado a multiplos LLMs no BTP.
 4. [[SAP Gen AI - Guia do Orchestration Service]] — o **Orchestration Service** no SAP AI Core: modulos (grounding, templating, data masking, content filtering, translation) e o fluxo sequencial de orquestracao acionado por uma unica chamada de API.
+5. [[SAP Gen AI - Simulado C_AIG com gabarito comentado]] — pratica para a prova C_AIG: evolucao versionada de um prompt template no Prompt Editor (roles, variavel, schema JSON, hardening, comparacao de modelos, multi-issue), com gabarito e raciocinio de cada task.
 
 ## Como os guias se relacionam
 
@@ -52,3 +53,4 @@ Topicos ainda nao cobertos por notas dedicadas, candidatos a novas entradas na t
 - [[SAP Gen AI - Guia de aprendizagem de IA Generativa]]
 - [[SAP Gen AI - Guia do Generative AI Hub]]
 - [[SAP Gen AI - Guia do Orchestration Service]]
+- [[SAP Gen AI - Simulado C_AIG com gabarito comentado]]
